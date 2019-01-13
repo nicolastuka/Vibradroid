@@ -1,0 +1,13 @@
+{
+  "name": "vibradroid",
+  "url": "https://github.com/nicolastuka/Vibradroid",
+  "license": "MIT",
+  "tags": [],
+  "description": "Vibrate your Android mobile device",
+  "version": "1.0.0",
+  "releasenote": "",
+  "contributors": ["nicolastuka"],
+  "dependencies": {
+
+  }
+}
