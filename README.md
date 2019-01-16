@@ -26,7 +26,7 @@ class SimpleExample
 
 import extension.vibradroid.Vibradroid;
 
-class SimpleExampleImage
+class ExampleIndefinitely
 {
     function AnyFuntion():Void
     {
@@ -42,7 +42,7 @@ class SimpleExampleImage
 
 import extension.vibradroid.Vibradroid;
 
-class SimpleExampleImage
+class ExamplePatterns
 {
     function AnyFuntion():Void
     {
